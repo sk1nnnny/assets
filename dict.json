@@ -1,4 +1,4 @@
-    const BUILTIN_RU_DICT = {
+
     "Project": "Проект",
     "Key": "Ключ API",
     "Created": "Создан",
@@ -239,4 +239,3 @@
     "This model is not stable and may not be suitable for production use.": "Google предупреждает о нестабильности модели. Мы рекомендуем использовать её для обхода цензуры.",
     "Start typing a prompt to see what our models can do": "Введите запрос для ИИ без ограничений",
     "Enter a prompt": "Введи промпт"
-};
